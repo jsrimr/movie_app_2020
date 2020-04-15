@@ -1,5 +1,5 @@
 # 리액트 앱 만들어보기
-visit : https://github.com/jsrimr/movie_app_2020
+visit : https://jsrimr.github.io/movie_app_2020/
 
 구현기능 : component, prop, state, axios_get, github-page deploy
 
