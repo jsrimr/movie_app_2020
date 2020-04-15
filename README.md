@@ -1,3 +1,8 @@
+# 리액트 앱 만들어보기
+visit : https://github.com/jsrimr/movie_app_2020
+
+구현기능 : component, prop, state, axios_get, github-page deploy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
