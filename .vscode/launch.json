@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Launch via npm",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["App.js", "debug"],
+            "port": 9229
+          },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
